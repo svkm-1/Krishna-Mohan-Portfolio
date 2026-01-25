@@ -555,6 +555,11 @@ main {
   line-height: 1.6;
 }
 
+.service-item-photo {
+text-align: center;
+
+}
+
 
 /**
  * #testimonials 
