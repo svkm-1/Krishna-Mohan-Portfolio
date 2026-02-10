@@ -39,7 +39,8 @@
 }
 .custom-button {
   color: white;
-  background-color: #d0b200;
+  /* background-color: #d0b200; */
+  background-image: linear-gradient(#d0b200, #a58d00);
   width: 130px;
   height: 45px;
   border-width: 0;
@@ -166,7 +167,8 @@
   margin-right: 28px;
 }
 .thanking-customers-section {
-  background-color: #d0b2001a;
+  /* background-color: #d0b2001a; */
+  background-image: radial-gradient(#fff8db, #fae38c);
 }
 .thanking-customers-section-heading {
   color: #183b56;
@@ -183,6 +185,12 @@
   width: 270px;
   margin-bottom: 20px;
 }
+
+.thanking-customers-section-modal-title {
+  color: #d0b200;
+  font-weight: 800;
+}
+
 .follow-us-section {
   background-color: white;
 }
