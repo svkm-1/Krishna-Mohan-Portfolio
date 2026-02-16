@@ -956,7 +956,7 @@ text-align: center;
   100% { transform: scale(1); }
 }
 
-.project-item > a { width: 100%; }
+.project-item > a { width: 100%; text-align: center; }
 
 .project-img {
   position: relative;
